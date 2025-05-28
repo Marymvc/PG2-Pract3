@@ -60,8 +60,8 @@ INSTALLED_APPS = [
 
 ### 7. Migrar la base de datos
 ```sh
-python [manage.py](http://_vscodecontentref_/1) makemigrations
-python [manage.py](http://_vscodecontentref_/2) migrate
+python manage.py makemigrations
+python manage.py migrate
 ```
 Diagrama de modelos
 Instala Graphviz desde su página oficial para generar el diagrama de modelos:
