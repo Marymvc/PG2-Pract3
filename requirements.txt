@@ -2,3 +2,4 @@ Django>=4.2
 djangorestframework>=3.14
 django-extensions>=3.2
 graphviz>=0.20
+ pillow==11.2.1

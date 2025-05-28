@@ -42,6 +42,11 @@ INSTALLED_APPS = [
     'RVT',
 ]
 
+GRAPH_MODELS = {
+  'app_labels': ["RVT", ],
+}
+
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
